@@ -1,6 +1,6 @@
 # All Restaurants in Eugene-Springfield (Metro), Oregon, US
 
-> Free BeamStation sample export with 98 rows and masked direct-contact fields.
+> Free BeamStation sample export with 94 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `524682` |
 | Location | Eugene-Springfield, OR |
 | Category | Restaurants |
-| Full dataset size | 985 records |
-| Free sample size | 98 records (9.95%) |
-| Last export | 2026-04-09T17:15:49.141390+00:00 |
+| Full dataset size | 944 records |
+| Free sample size | 94 records (9.96%) |
+| Last export | 2026-04-16T20:25:20.320422+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-eugene-springfield-metro-oregon-us-sample-524682/releases/download/sample-latest/beamstation_524682_restaurants-us-eugenespringfieldor_SAMPLE_DIST.csv) |
 
 ## What is in this sample
