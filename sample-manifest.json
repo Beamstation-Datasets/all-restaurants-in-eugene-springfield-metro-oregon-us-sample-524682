@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1f732d87-1619-4985-8d72-27481a4afffc",
+  "export_job_id": "faca87a3-b5a0-4baa-8ee7-d348a1a5107b",
   "id_short": 524682,
-  "published_at": "2026-04-19T19:44:58Z",
+  "published_at": "2026-04-23T19:57:26Z",
   "repo_name": "all-restaurants-in-eugene-springfield-metro-oregon-us-sample-524682",
   "sample_asset_name": "beamstation_524682_restaurants-us-eugenespringfieldor_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/524682/beamstation_524682_restaurants-us-eugenespringfieldor_SAMPLE_DIST.csv",
-  "sample_records": 94,
-  "sample_sha256": "6efe42a2036549ee69147b17f1e11eaf5d0e156383322d2b82521a4479c57368",
-  "sample_size_bytes": 353503,
-  "total_records": 944
+  "sample_records": 75,
+  "sample_sha256": "126354b5e34d6b91cc6a6386c9f9467f35d6cac51b91c2c4e3d279d88c29ca62",
+  "sample_size_bytes": 284452,
+  "total_records": 757
 }
